@@ -1,16 +1,33 @@
-## Hi there 👋
+╭────────────────────────────────────────────╮
+│             WELCOME CODERS !!              │
+│                                            │
+│              Hi, I'm Jhalak               │
+│        B.Tech CSE (AI-ML) Student         │
+│                                            │
+│  🚀 Microsoft Student Ambassador          │
+│  🤖 AI/ML • Python • Java • Open Source   │
+╰────────────────────────────────────────────╯
 
-<!--
-**Iconic-jhalak/Iconic-jhalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 ABOUT ME
+━━━━━━━━━━━━━━━━━━━━
+🎓 B.Tech CSE (AI-ML)
+🚀 Microsoft Student Ambassador
+💻 Software Engineering Enthusiast
+🌐 Open Source & Community Enthusiast
 
-Here are some ideas to get you started:
+🛠️ TECH STACK
+━━━━━━━━━━━━━━━━━━━━
+Python | Java | C | HTML | CSS
+Git | GitHub | JavaScript | AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 ACHIEVEMENTS
+━━━━━━━━━━━━━━━━━━━━
+Microsoft Student Ambassador
+Open Source Contributions
+
+📊 GITHUB STATS
+━━━━━━━━━━━━━━━━━━━━
+
+🤝 CONNECT WITH ME
+━━━━━━━━━━━━━━━━━━━━
+LinkedIn | Instagram | YouTube
