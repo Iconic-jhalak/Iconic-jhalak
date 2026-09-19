@@ -22,6 +22,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 Python | Java | C | HTML | CSS
 Git | GitHub | JavaScript | AI/ML
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode,mysql">
+</p>
 
 🏆 ACHIEVEMENTS
 ━━━━━━━━━━━━━━━━━━━━
@@ -30,7 +35,17 @@ Open Source Contributions
 
 📊 GITHUB STATS
 ━━━━━━━━━━━━━━━━━━━━
+<h2>📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Iconic-jhalak&show_icons=true&theme=tokyonight">
 
 🤝 CONNECT WITH ME
 ━━━━━━━━━━━━━━━━━━━━
 LinkedIn | Instagram | YouTube
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Iconic-jhalak">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
